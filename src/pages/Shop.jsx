@@ -1,8 +1,12 @@
 import React from 'react'
+import Helmet from '../components/Helmet/Helmet'
+
 
 function Shop() {
   return (
-    <div>Shop</div>
+    <Helmet title="shop">
+     
+    </Helmet>
   )
 }
 
